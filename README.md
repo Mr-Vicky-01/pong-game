@@ -21,8 +21,7 @@ Pong is a two-player game where each player controls a paddle by moving it verti
 
 - Ensure you have Python installed on your machine.
 - Clone this repository to your local machine.
-  
-1.
+
   ```bash
   git clone https://github.com/Mr-Vicky-01/pong-game.git
   cd pong-game.
